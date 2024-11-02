@@ -43,18 +43,19 @@
         "url": "https://fonts.googleapis.com/css?family=Inter+Tight:100,200,300,400,500,600,700,800,900,100i,200i,300i,400i,500i,600i,700i,800i,900i"
       }
     ],
-    "favicon": false,
-    "mbrsiteDomain": "afw5fmnqfp",
-    "imageResize": false,
-    "usedWebp": false,
-    "robotsSwitcher": false,
+    "favicon": "@PROJECT_PATH@/assets/images/artboard-14-182x193.png",
+    "mbrsiteDomain": "tn1ynsxkva",
+    "imageResize": true,
+    "usedWebp": true,
+    "robotsSwitcher": true,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
     "siteUrl": false,
     "cookiesAlert": false,
     "gdpr": false,
     "uniqCompNum": 31,
-    "versionPublish": "5.9.18"
+    "versionPublish": "5.9.18",
+    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n"
   },
   "pages": {
     "index.html": {
