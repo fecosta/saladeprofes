@@ -49,23 +49,24 @@
     "usedWebp": true,
     "robotsSwitcher": true,
     "sitemapSwitcher": false,
-    "sitemapSwitcherAuto": false,
+    "sitemapSwitcherAuto": "on",
     "siteUrl": false,
-    "cookiesAlert": false,
     "gdpr": false,
     "uniqCompNum": 32,
     "versionPublish": "5.9.18",
-    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n"
+    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n",
+    "cookiesAlert": false
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "Sala das Profes",
+        "meta_descr": "Aprenda a planejar e entregar aulas on-line de idiomas dinâmicas para alunos de diferentes níveis, sem ter que gastar todo o seu tempo na seleção ou criação de materiais, nem apanhar das ferramentas digitais de ensino",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "socialSharingUrl": ""
       },
       "components": [
         {
