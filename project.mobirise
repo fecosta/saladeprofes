@@ -72,7 +72,8 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "socialSharingUrl": ""
+        "socialSharingUrl": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/sala_de_profes_thumb-1332x772.jpg"
       },
       "components": [
         {
