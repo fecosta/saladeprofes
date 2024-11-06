@@ -49,19 +49,20 @@
       }
     ],
     "favicon": "@PROJECT_PATH@/assets/images/artboard-14-182x193.png",
-    "mbrsiteDomain": "2ttbs8jpkg",
+    "mbrsiteDomain": "9queei6v6i",
     "imageResize": true,
     "usedWebp": true,
     "robotsSwitcher": true,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": "on",
     "siteUrl": false,
-    "gdpr": false,
     "uniqCompNum": 34,
     "versionPublish": "5.9.18",
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n",
+    "screenshot": "screenshot.png",
+    "google-analytics": "<!-- Meta Pixel Code -->\n<script>\n!function(f,b,e,v,n,t,s)\n{if(f.fbq)return;n=f.fbq=function(){n.callMethod?\nn.callMethod.apply(n,arguments):n.queue.push(arguments)};\nif(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';\nn.queue=[];t=b.createElement(e);t.async=!0;\nt.src=v;s=b.getElementsByTagName(e)[0];\ns.parentNode.insertBefore(t,s)}(window, document,'script',\n'https://connect.facebook.net/en_US/fbevents.js');\nfbq('init', '2709499579167743');\nfbq('track', 'PageView');\n</script>\n<noscript><img height=\"1\" width=\"1\" style=\"display:none\"\nsrc=\"https://www.facebook.com/tr?id=2709499579167743&ev=PageView&noscript=1\"\n/></noscript>\n<!-- End Meta Pixel Code -->",
     "cookiesAlert": false,
-    "screenshot": "screenshot.png"
+    "gdpr": false
   },
   "pages": {
     "index.html": {
